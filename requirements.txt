@@ -1,0 +1,7 @@
+Requirements:
+--------------
+~RAM: minimum 4GB or 8Gb for performance efficiency
+
+~CPU: i5 Core minimum
+
+[+]Note: Required to install in order to use the system. Use the setup program to install into your system.
