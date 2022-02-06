@@ -1,0 +1,1 @@
+# Nscanner is a desktop application tool for scanning web vulnerabities such as cross-site scripting and SQLi. It has additional ML feature associated within the application to identify an URL is malicious or not using Linear Regression model
